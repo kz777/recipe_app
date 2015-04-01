@@ -163,6 +163,31 @@ header li:first-child {
 	color: #ffffff
 }
 
+/* Footer section*/
+nav {
+	color: #373535;
+	font-size: 16px;
+}
+
+footer {
+	background-color: #e5e0e0;
+	height: 140px;
+	padding-top: 20px;
+}
+
+footer {
+	text-align: center;
+	padding-top: 10px;
+}
+
+footer li {
+	border-right: 1px solid #373535
+}
+footer li:last-child {
+	border-right: none;
+	
+}
+
 
 
 
