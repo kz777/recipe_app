@@ -1,1 +1,2 @@
-# simple_html_css_project
+# simple html5  and css3 used mini project
+
